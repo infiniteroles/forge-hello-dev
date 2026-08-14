@@ -44,7 +44,7 @@ app.get("/", (_req, res) => {
       </head>
       <body>
         <main>
-          <h1>Hello from Forge DEV</h1>
+          <h1>Hello from Forge DEV v2</h1>
           <p>Environment ready at <code>hello.dev.core01.io</code></p>
         </main>
       </body>
