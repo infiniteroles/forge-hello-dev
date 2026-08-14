@@ -1,0 +1,15 @@
+{
+  "name": "forge-hello-dev",
+  "version": "1.0.0",
+  "description": "Minimal DEV environment test for Forge Core01",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
